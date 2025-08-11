@@ -1,0 +1,39 @@
+# 84. Largest Rectangle in Histogram
+
+**Source:** [https://leetcode.ca/all/84.html](https://leetcode.ca/all/84.html)
+
+**Companies:** Adobe, Amazon, Bloomberg, Facebook, Flipkart, Google, Microsoft, Twitter, Walmart Labs
+
+## Description
+
+Given
+
+n
+
+non-negative integers representing the histogram's bar height where the
+        width of each bar is 1, find the area of largest rectangle in the histogram.
+
+Above is a histogram where width of each bar is 1, given height =
+
+[2,1,5,6,2,3]
+
+.
+
+The largest rectangle is shown in the shaded area, which has area =
+
+10
+
+unit.
+
+## Examples
+
+### Example
+
+```
+Example:
+Input:
+[2,1,5,6,2,3]
+Output:
+10
+```
+
